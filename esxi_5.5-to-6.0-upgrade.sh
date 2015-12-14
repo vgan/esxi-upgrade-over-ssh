@@ -1,3 +1,4 @@
+#!/bin/sh
 # Upgrading ESXi / vSphere 5.5 to 6 via ssh/ esxcli
 #################################################
 # - Migrate running VMs off of host
